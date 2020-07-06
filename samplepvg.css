@@ -1,0 +1,21 @@
+body{
+    background-color: seashell;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+h4{
+    line-height: 0.1;
+}
+details{
+    font-family: Georgia;
+}
+h5{
+    font-size: 18px;
+    line-height: 10%;
+}
+span{
+    line-height: 10%;
+    display: inline-block;
+}
