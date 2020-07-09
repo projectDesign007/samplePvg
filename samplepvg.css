@@ -29,7 +29,7 @@ table{
     margin-right: auto;
     margin-left: auto;
 }
-#about{
+table#about{
     table-layout: auto;
     width: 100%; 
 }
