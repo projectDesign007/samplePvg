@@ -1,0 +1,77 @@
+header{
+margin:0;
+   padding:0;
+   overflow: hidden;
+  background: linear-gradient(darkgray 0%, lightgray 100%);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+#menu{
+    
+}
+body{
+    background: linear-gradient( #ffff4d 0%, #ccffcc 100%);
+    margin: 0;
+    padding: 0;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function:ease;
+    transition-delay: 0.5s;
+}
+#building{
+    padding: 5px;
+    margin-top: 150px;
+    width:  99%;
+    height: auto;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+#about{
+    table-layout: auto;
+    width: 100%; 
+}
+td{
+    font-family: Georgia;
+}
+h4{
+    line-height: 0.1;
+}
+details{
+    font-family: Georgia;
+}
+h5{
+    font-size: 18px;
+    line-height: 10%;
+}
+span{
+    line-height: 10%;
+    display: inline-block;
+}
+img#detail:hover{
+    width: 650px;
+    
+}
+input:hover{
+    color: darkblue;
+    background-color: goldenrod;
+}
+#intro:hover{
+    color: #ffffff;
+    background: linear-gradient(#666666 0%, #00ffea 100%);
+}
+a.social{
+   position: relative;
+   left: 20%; 
+    
+}
+i:hover{
+    border: 3px solid aqua;
+    border-radius: 11px;
+}
+#contact{
+    position: relative;
+    left: 20%;
+}
